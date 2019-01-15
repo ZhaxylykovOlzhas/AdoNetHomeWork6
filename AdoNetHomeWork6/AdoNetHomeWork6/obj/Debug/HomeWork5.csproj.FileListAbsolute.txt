@@ -1,0 +1,7 @@
+C:\Users\ЖаксылыковО\Desktop\AdoNet5HomeWork-master\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe.config
+C:\Users\ЖаксылыковО\Desktop\AdoNet5HomeWork-master\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe
+C:\Users\ЖаксылыковО\Desktop\AdoNet5HomeWork-master\HomeWork5\HomeWork5\bin\Debug\HomeWork5.pdb
+C:\Users\ЖаксылыковО\Desktop\AdoNet5HomeWork-master\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\Desktop\AdoNet5HomeWork-master\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\AdoNet5HomeWork-master\HomeWork5\HomeWork5\obj\Debug\HomeWork5.exe
+C:\Users\ЖаксылыковО\Desktop\AdoNet5HomeWork-master\HomeWork5\HomeWork5\obj\Debug\HomeWork5.pdb
